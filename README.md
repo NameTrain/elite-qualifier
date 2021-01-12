@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+Simple starter web scraper that accomodates Reddit
 
 ## Table of Contents
 
@@ -12,14 +12,16 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+A simple program to search Reddit links and see what's happening.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+To install, simply press "Run"
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+To use this program:
+-Press "Run"
+-Insert your desired Reddit link/topic into the console
+-Press enter to let run and load
 
-### Any optional sections
